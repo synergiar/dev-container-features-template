@@ -41,7 +41,7 @@ Providing no version implies the latest release's artifacts.  To supply a tag as
 
 ```jsonc
 features: {
-    "synergiar/dev-container-features-template/zsh@v0.0.1": {}
+    "synergiar/remote-container-zsh/zsh@v0.0.1": {}
 }
 ```
 
